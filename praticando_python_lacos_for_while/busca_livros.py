@@ -2,3 +2,4 @@ livros = ["1984", "Dom Casmurro", "O Pequeno Príncipe", "O Hobbit", "Orgulho e 
 for livro in livros:
     if livro == "O Hobbit":
         print("Livro encontrado:", livro)
+        break
